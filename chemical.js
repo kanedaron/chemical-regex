@@ -1,5 +1,8 @@
 
-
+// Node.Js command to set up an API
+// app.get('/:molecule', function(req, res) {
+//   res.json(chemicalDecomposer(req.params.molecule));
+// })
 
 
 const chemicalDecomposer = (molecule) => {
